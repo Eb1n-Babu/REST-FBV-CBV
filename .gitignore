@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+*.venv/
+*.egg-info/
+.env
+db.sqlite3
+
+# Django
+/staticfiles/
+/media/
+/*.log
+/local_settings.py
